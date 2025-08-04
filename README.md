@@ -333,19 +333,6 @@ This project follows the same licensing terms as the underlying FLUX models. Ple
 - **Hugging Face** for the diffusers and transformers libraries
 - **Krea AI** for the FLUX.1-Krea-dev variant
 
-## Citation
-
-If you use this merging technique in your research, please cite:
-
-```bibtex
-@misc{flux-merge-2024,
-  title={Sub-Memory Efficient Merging: FluxKreaSchnell},
-  author={PRITHIVSAKTHIUR},
-  year={2024},
-  url={https://github.com/PRITHIVSAKTHIUR/Sub-Memory-Efficient-Merging-FluxKreaSchnell}
-}
-```
-
 ## Repository
 
 **GitHub**: [https://github.com/PRITHIVSAKTHIUR/Sub-Memory-Efficient-Merging-FluxKreaSchnell.git](https://github.com/PRITHIVSAKTHIUR/Sub-Memory-Efficient-Merging-FluxKreaSchnell.git)
